@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O Host Service é um site genérico desenvolvido para treinar as habilidades de css avançado especificamente responsabilidade.
+O Host Service é um site genérico desenvolvido para treinar as habilidades de css avançado especificamente responsividade.
   
 ## Link da aplicação
 
@@ -12,7 +12,7 @@ O Host Service é um site genérico desenvolvido para treinar as habilidades de 
 
   * HTML Semântico;
   * CSS Avançado;
-  * Midia queries;
+  * Designer Responsivo;
   
  
 ## Tecnologias utilizadas
